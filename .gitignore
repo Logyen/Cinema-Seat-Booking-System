@@ -1,0 +1,26 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.log
+
+# Ignore Visual Studio files
+*.vs/
+.vscode/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+
+# Ignore Rider files
+.idea/
+
+# Ignore publish output
+*.publish/
+
+# Ignore temporary files
+*.tmp
+*.bak
